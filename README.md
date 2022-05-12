@@ -7,4 +7,6 @@ Proper alt tags were inserted, a title was added and CSS selectors were consolid
 Asset
 ![Screenshot](./images/Screenshot.png)
 
+Live application: http://127.0.0.1:5500/index.html
+
 
